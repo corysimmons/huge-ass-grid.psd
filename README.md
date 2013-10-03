@@ -1,4 +1,8 @@
-huge-ass-grid
-=============
+Huge Ass Grid
+---
 
-Just a huge ass grid.psd for Photoshop.
+Turn on guidelines, grid, and snapping.
+
+Set grid to 30 with 6 subdivisions.
+
+Enjoy.
