@@ -1,8 +1,10 @@
 Huge Ass Grid
 ---
 
-Turn on guidelines, grid, and snapping.
+`View` > `Snap`
 
-Set grid to 30 with 6 subdivisions.
+`View` > `Snap To` > `Guides`, `Grid`
+
+`Preferences` > `Guides, Grids & Slices` > `Gridline every 30px`, `Subdivisions 6`
 
 Enjoy.
