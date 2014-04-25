@@ -1,6 +1,8 @@
 Huge Ass Grid
 ---
 
+![](http://i.imgur.com/ZuwJsSP.png)
+
 `View` > `Snap`
 
 `View` > `Snap To` > `Guides`, `Grid`
